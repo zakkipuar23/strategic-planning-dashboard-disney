@@ -1,5 +1,5 @@
-#Strategic Planning Dashboard for Disney
-##This is my submission for Onyx Data Visualization challenge. Raw data could be downloaded also from this repository. My personal analysis is described here. There are three strategic objectives I'm trying to influenced with this simple visualization :
+# Strategic Planning Dashboard for Disney
+## This is my submission for Onyx Data Visualization challenge. Raw data could be downloaded also from this repository. My personal analysis is described here. There are three strategic objectives I'm trying to influenced with this simple visualization :
 ### 1. Analyze which genre is the most profitable for Disney and do they focus on that genre. We could answer this comprehensively by looking at the first three look-alike chart.
 
 At the left one, the chart is showing Productivity : how many total movie is produced.
